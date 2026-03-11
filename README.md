@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+Serikov Sayat - Data Engineer & Python Developer from Kazakhstan 🇰🇿
+I build and maintain data pipelines in production environments. Currently working as a Data Engineer since 2023, focused on ETL architecture and data warehouse design.
+What I've worked on:
+* Built incremental ETL pipelines with Apache NiFi -> Clickhouse, including handling non-standard composite primary keys with mixed alphanumeric IDs.
+* Designed a multi-layer data warehouse using Apache Airflow, Spark, Kafka Connect, and MinIO (S3) - with deduplication and data quality check optimized for resource-constrained Spark clusters
+
+Stack: Python * Apache NiFi * Apache Airflow * Apache Spark * Clickhouse * PostgreSQL * Kafka * MinIO
